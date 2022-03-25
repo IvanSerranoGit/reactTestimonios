@@ -1,4 +1,4 @@
-# Uso de compnentes
+# Uso de componentes
 
 ¡Hola! Esta es una aplicación desarrollada con React que representa un clon de la sección de Testimonios de estudiantes de freeCodeCamp.
 
@@ -16,7 +16,7 @@ Para instalar los módulos necesarios para la aplicación, debes ejecutar el com
 
 ## Contacto
 
-Github [Github](https://github.com/IvanSerranoGit).
-Twitter [Twitter](https://twitter.com/lvanSerrano).
-Instagram [Instagram](https://www.instagram.com/_ivan.serrano/).
-Web [Web](https://ivan.serrano.opengala.xyz/).
+Github: [IvanSerranoGit](https://github.com/IvanSerranoGit).
+Twitter: [@lvanSerrano](https://twitter.com/lvanSerrano).
+Instagram: [_ivan.serrano](https://www.instagram.com/_ivan.serrano/).
+Web: [ivan.serrano.opengala.xyz/](https://ivan.serrano.opengala.xyz/).
